@@ -1,3 +1,6 @@
+'''
+This is a conversion for the basic units of time, weight and length
+'''
 def time():
     print("TIME CONVERSION\nPlease Enter hour, minute or second")
     len_dict = {
